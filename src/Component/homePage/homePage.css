@@ -1,0 +1,37 @@
+.card {
+    max-width: 850px;
+    margin: auto;
+    box-shadow: 3px 11px 62px -26px rgba(0, 0, 0, 0.67);
+}
+
+.btn {
+    font-size: 30px
+}
+
+.btn :hover {
+    font-size: 32px
+}
+
+.fa-telegram-plane {
+    color: #0088cc;
+}
+
+.fa-facebook-f {
+    color: #3b5998;
+}
+
+.fa-youtube {
+    color: #FF0000;
+}
+
+.fa-twitter {
+    color: #00acee;
+}
+
+.fa-whatsapp {
+    color: #075e54;
+}
+
+.azadImg {
+    width: 130px
+}
