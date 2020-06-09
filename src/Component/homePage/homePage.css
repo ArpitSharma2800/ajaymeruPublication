@@ -1,11 +1,22 @@
-.card {
+.imgcard {
     max-width: 850px;
+    margin: auto;
+    box-shadow: 3px 11px 62px -26px rgba(0, 0, 0, 0.67);
+}
+
+.qouteCard {
+    max-width: 1200px;
     margin: auto;
     box-shadow: 3px 11px 62px -26px rgba(0, 0, 0, 0.67);
 }
 
 .btn {
     font-size: 30px
+}
+
+.TW {
+    font-size: 25px;
+    padding: 10px
 }
 
 .btn :hover {
@@ -30,6 +41,14 @@
 
 .fa-whatsapp {
     color: #075e54;
+}
+
+.fa-phone-alt {
+    color: #1E90FF;
+}
+
+.fa-instagram {
+    color: #C13584;
 }
 
 .azadImg {
