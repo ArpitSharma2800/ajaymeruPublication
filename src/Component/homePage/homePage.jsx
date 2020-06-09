@@ -25,7 +25,7 @@ export default function homePage() {
                             </div>
                         </div>
                     </div>
-                    <div class="card-footer bg-transparent border-dark  "><div class="social d-flex justify-content-center"> <a href="#" class="btn"><i class="fab fa-telegram-plane"></i></a> <a href="https://m.facebook.com/profile.php?id=107497180970204&ref=content_filter" class="btn"><i class="fab fa-facebook-f"></i></a> <a href="https://www.youtube.com/channel/UCFsglH86ITJkDRz0l0Rd0tA" class="btn"><i class="fab fa-youtube"></i></a>
+                    <div class="card-footer bg-transparent border-dark  "><div class="social d-flex justify-content-center"> <a href="https://t.me/Ajaymeru_Publication" class="btn"><i class="fab fa-telegram-plane"></i></a> <a href="https://m.facebook.com/profile.php?id=107497180970204&ref=content_filter" class="btn"><i class="fab fa-facebook-f"></i></a> <a href="https://www.youtube.com/channel/UCFsglH86ITJkDRz0l0Rd0tA" class="btn"><i class="fab fa-youtube"></i></a>
                         <a href="https://twitter.com/ajaymerupublic" class="btn"><i class="fab fa-twitter"></i></a> <a href="mailto:ajaymerupublication@gmail.com" class="btn"><i class="fas fa-mail-bulk"></i></a>
                         <a href="https://www.instagram.com/ajaymerupublication/?hl=en" class="btn"><i class="fab fa-instagram"></i></a></div></div>
                 </div>
